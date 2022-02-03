@@ -1,0 +1,18 @@
+#username{
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.grand-total{
+    font-size: 50pt;
+}
+
+.modal-body input{
+    font-size: 1.7em;
+    font-weight: bold;
+    padding: 25px 10px;
+}
+.modal-body span{
+    font-size: 1.7em;
+}
